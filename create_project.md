@@ -10,7 +10,7 @@ Click the browse button to save the project in the desired location.
 
 Click Next
 
-![](/ryancather/android-naughts-crosses/master/images/android-naughts-and-crosses1/project-name.png)
+![](https://raw.githubusercontent.com/ryancather/android-naughts-crosses/master/images/android-naughts-and-crosses/project-name.png)
 
 
 ### 1.2 Android Versions
