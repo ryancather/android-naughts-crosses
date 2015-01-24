@@ -10,7 +10,7 @@ At the end of this tutorial, your UI should look similar to the following image.
 
 ![][8]
 
-[8]: images/android-naughts-and-crosses1/user-interface--ui-.png
+[8]: images/android-naughts-and-crosses/user-interface--ui-.png
 
 ### 2.1 View the Text Editor
 
@@ -22,7 +22,7 @@ This simply tells the device that the overarching layout manager will be a Table
 
 ![][9]
 
-[9]: images/android-naughts-and-crosses1/view-the-text-editor.png
+[9]: images/android-naughts-and-crosses/view-the-text-editor.png
 
 ### 2.2 Add the Table Rows
 
@@ -42,7 +42,7 @@ Add the rows into your XML, making sure to close each tag that is opened.
 
 ![][10]
 
-[10]: images/android-naughts-and-crosses1/add-the-table-rows.png
+[10]: images/android-naughts-and-crosses/add-the-table-rows.png
 
 ### 2.3 Add the TextView
 
@@ -54,7 +54,7 @@ For the moment, ignore the warning on the android:text attribute. You will fix t
 
 ![][11]
 
-[11]: images/android-naughts-and-crosses1/add-the-textview.png
+[11]: images/android-naughts-and-crosses/add-the-textview.png
 
 ### 2.4 Configure the First Row
 
@@ -68,7 +68,7 @@ The gravity attribute places the row in the centre along the horizontal axis of 
 
 ![][12]
 
-[12]: images/android-naughts-and-crosses1/configure-the-first-row.png
+[12]: images/android-naughts-and-crosses/configure-the-first-row.png
 
 ### 2.5 Check the Preview
 
@@ -78,7 +78,7 @@ Note that it may appear slightly differently, depending on the API version of An
 
 ![][13]
 
-[13]: images/android-naughts-and-crosses1/check-the-preview.png
+[13]: images/android-naughts-and-crosses/check-the-preview.png
 
 ### 2.6 Configure the Fifth Row
 
@@ -86,7 +86,7 @@ Set the Attributes of the TableRow tag for the fifth row to the be the same as t
 
 ![][14]
 
-[14]: images/android-naughts-and-crosses1/configure-the-fifth-row.png
+[14]: images/android-naughts-and-crosses/configure-the-fifth-row.png
 
 ### 2.7 Add the Button
 
@@ -98,7 +98,7 @@ Ignore the warnings that appear - these will be fixed later.
 
 ![][15]
 
-[15]: images/android-naughts-and-crosses1/add-the-button.png
+[15]: images/android-naughts-and-crosses/add-the-button.png
 
 ### 2.8 Check the Preview
 
@@ -108,7 +108,7 @@ Don't worry that the Text and the Button appear next to each other. The Naughts 
 
 ![][16]
 
-[16]: images/android-naughts-and-crosses1/check-the-preview-1.png
+[16]: images/android-naughts-and-crosses/check-the-preview-1.png
 
 ### 2.9 Configure the middle rows
 
@@ -118,7 +118,7 @@ In the text editor for the XML, find the TableRow tags for the 2nd, 3rd and 4th 
 
 ![][17]
 
-[17]: images/android-naughts-and-crosses1/configure-the-middle-rows.png
+[17]: images/android-naughts-and-crosses/configure-the-middle-rows.png
 
 ### 2.10 Add buttons on the second row
 
@@ -134,7 +134,7 @@ Inside the TableRow tag for the second row, add three buttons and their attribut
 
 ![][18]
 
-[18]: images/android-naughts-and-crosses1/add-buttons-on-the-second-row.png
+[18]: images/android-naughts-and-crosses/add-buttons-on-the-second-row.png
 
 ### 2.11 Check the Preview
 
@@ -142,7 +142,7 @@ Now that you've created the first row of buttons, you can change to the design v
 
 ![][19]
 
-[19]: images/android-naughts-and-crosses1/check-the-preview-2.png
+[19]: images/android-naughts-and-crosses/check-the-preview-2.png
 
 ### 2.12 Complete the other two rows
 
@@ -150,7 +150,7 @@ The code for the second two rows is similar with only the id's changing for each
 
 ![][20]
 
-[20]: images/android-naughts-and-crosses1/complete-the-other-two-rows.png
+[20]: images/android-naughts-and-crosses/complete-the-other-two-rows.png
 
 ### 2.13 Check the Preview
 
@@ -158,7 +158,7 @@ Now that all the XML code has been completed, check the Design view of your UI a
 
 ![][21]
 
-[21]: images/android-naughts-and-crosses1/check-the-preview-3.png
+[21]: images/android-naughts-and-crosses/check-the-preview-3.png
 
 ### 2.14 Final XML code
 

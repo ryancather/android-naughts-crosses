@@ -23,7 +23,7 @@ Click Next.
 
 ![][3]
 
-[3]: images/android-naughts-and-crosses1/android-versions.png
+[3]: images/android-naughts-and-crosses/android-versions.png
 
 ### 1.3 Create Activity
 
@@ -31,7 +31,7 @@ In this step, you have options for a number of predefined activities for differe
 
 ![][4]
 
-[4]: images/android-naughts-and-crosses1/create-activity.png
+[4]: images/android-naughts-and-crosses/create-activity.png
 
 ### 1.4 Name the activity
 
@@ -43,7 +43,7 @@ Your project will then be created and loaded with the required components to run
 
 ![][5]
 
-[5]: images/android-naughts-and-crosses1/name-the-activity.png
+[5]: images/android-naughts-and-crosses/name-the-activity.png
 
 ### 1.5 Make a test run
 
@@ -53,7 +53,7 @@ You can run this app in the emulator or on a device by clicking the green play b
 
 ![][6]
 
-[6]: images/android-naughts-and-crosses1/make-a-test-run.png
+[6]: images/android-naughts-and-crosses/make-a-test-run.png
 
 ### 1.6 The app is running!
 
@@ -63,5 +63,5 @@ Hello World, indeed.
 
 ![][7]
 
-[7]: images/android-naughts-and-crosses1/the-app-is-running-.png
+[7]: images/android-naughts-and-crosses/the-app-is-running-.png
 
