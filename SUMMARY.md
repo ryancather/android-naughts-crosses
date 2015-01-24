@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Java Code
+* [Java Code](java_code.md)
 
