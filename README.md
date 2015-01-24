@@ -7,5 +7,5 @@ At the end of the tutorial, your game should run in the simulator as well as on 
 
 This tutorial is written for use with Android Studio but applying it to Eclipse shouldn't be too difficult.
 
-![](images/android-naughts-and-crosses1/b12297f6-67c1-4a64-9346-ef9c5943cc38.png)
+![](/ryancather/android-naughts-crosses/master/images/android-naughts-and-crosses/b12297f6-67c1-4a64-9346-ef9c5943cc38.png)
 
